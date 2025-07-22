@@ -1,13 +1,17 @@
 # YEUNG, Cheuk Fung
 
-## Senior Software Developer
+## Software Development Manager, Senior Software Developer
 
 Mobile/WhatsApp: (+852) 6791 5829
 
 Email: yeungcfhk@gmail.com
 
+CV URL: https://cutha.github.io
+
 - Seasoned Senior Software Developer maintaining exceptional code quality and precision in application architecture design, even amidst project complexities.
+- Experienced in leading cross-functional teams, mentoring developers, optimizing project workflows, and ensuring timely delivery of high-quality software solutions while promoting best practices.
 - Strong advocate for investing in superior code quality, design, and robust unit testing from the outset to ease future troubleshooting and user-requested enhancements.
+- Leveraged emerging generative AI trends to improve overall productivity, including but not limited to code generation, optimization, and document revision.
 - Experienced in both fast-paced vendor environments and in-house product development, showcasing adaptability and efficiency.
 - Passionate about sharing knowledge with junior developers and guiding them towards success.
 - Proficient in creating clear and concise technical documentation.
@@ -15,11 +19,22 @@ Email: yeungcfhk@gmail.com
 
 <br />
 
-# Work Experience (10 years)
+# Work Experience (13 years)
 
 ## C&R Holdings Ltd. (2020/08 to current)
 
-### Software Developer (Senior)
+### Software Development Manager, Senior Software Developer
+
+**Intellectual Property Department (IPD)**
+
+- Led the development of the iMF (Image Mark Finder) system, implementing a trademark image search similarity solution where users upload an image, and the model identifies similar trademarks in the database by comparing image embeddings.
+- Utilized PyTorch for transfer learning with Convolutional Neural Networks (CNNs), training on approximately 300k images and generating embeddings for a full dataset of about 1 million.
+- Engineered a high-performance similarity search program in Rust, achieving sub-100ms query times for 1 million image embeddings on hardware such as M2 Mac Studio and Government Cloud (GCIS) VMs.
+- Integrated generative AI prompting techniques to extract significant patterns and logos from trademark images without training a separate object detection model, substantially reducing development time and resources while enhancing image similarity accuracy and user satisfaction.
+
+**Digital Policy Office (DPO)**
+
+- Contributed to the Computer Vision (CV) Hub project, a low-code platform enabling users to build machine learning pipelines through drag-and-drop components such as image and video processing blocks, data augmentation modules, labeling tools, object detection and classification training blocks, facilitating efficient development of CV applications for downstream tasks.
 
 **Airport Authority Hong Kong (AAHK)**
 
@@ -28,11 +43,6 @@ Email: yeungcfhk@gmail.com
 - Involved in comprehensive systems development, handling frontend web interfaces, backend API, and messaging applications, showcasing versatility and technical depth.
 - Strong ability to enhance existing systems, able to quickly adapt and modernize legacy systems when business needs arise.
 - Strong written skills in creating and maintaining technical documents, including but not limited to Requirement Specification, Interface Specification, System Analysis & Design (SA&D) and so on.
-
-**Office of the Government Chief Information Officer (OGCIO)**
-
-- Pioneered a trademark image similarity search initiative for the Intellectual Property Department. Successfully trained a model on half a million images, providing a high-quality image similarity solution.
-- Participated in Computer Vision hub project, in which CV-related tools are being developed.
 
 **Hong Kong Observatory (HKO)**
 
@@ -93,6 +103,12 @@ Email: yeungcfhk@gmail.com
 <br />
 
 # Technical Skills
+
+## Generative AI
+
+- Extensive exposure to the latest generative AI technologies, including leading closed-source large language models (LLMs) such as Google Gemini, Anthropic Claude, and xAI Grok, which I use for everyday tasks.
+- Proficient in utilizing open-source LLMs, employing tools such as LangChain, LM Studio, and Ollama for models including Deepseek, Qwen, and Gemma, enabling customized applications that require data privacy.
+- Experienced in prompt engineering techniques such as chain-of-thought reasoning, structured prompts, and role assignment to optimize and fine-tune model responses.
 
 ## Programming Languages
 
