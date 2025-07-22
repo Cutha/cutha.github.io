@@ -6,7 +6,7 @@ Mobile/WhatsApp: (+852) 6791 5829
 
 Email: yeungcfhk@gmail.com
 
-CV URL: https://cutha.github.io
+CV URL: [https://cutha.github.io](https://cutha.github.io)
 
 - Seasoned Senior Software Developer maintaining exceptional code quality and precision in application architecture design, even amidst project complexities.
 - Experienced in leading cross-functional teams, mentoring developers, optimizing project workflows, and ensuring timely delivery of high-quality software solutions while promoting best practices.
